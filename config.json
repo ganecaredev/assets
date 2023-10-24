@@ -2,5 +2,6 @@
     "baseUrl": "https://ganecare.halopoint.co",
     "baseUrlDev": "http://192.168.100.148:2023",
     "version": "2.0.0",
-    "forceUpdate": true
+    "forceUpdate": true,
+    "version_note": "<p><span>The latest version contains bug fixes and performance improvements.</span></p>"
 }
