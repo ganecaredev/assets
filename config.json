@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://ganecare.halopoint.co",
+    "baseUrl": "https://api.ganecareitb.com",
     "baseUrlDev": "http://192.168.100.148:2023",
     "version": "2.0.41",
     "forceUpdate": true,
